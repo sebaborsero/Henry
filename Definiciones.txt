@@ -1,0 +1,5 @@
+Variables: Son valores que se declaran para utilizarse en una funciones
+String: Bloques de texto que van entre comillas
+Funciones: Ejecutan comandos y operaciones segun los argumentos que le pasemos, return es la forma de devolver un valor para cualquier funcion utilizada
+Declaracion If: Es un condicional, como tal, hace una salvedad sobre una funcion a ejecutar, acota su accion
+Valores booleanos: admiten dos formas, true o false, indican el cumplimiento de alguna condicion impuesta en la funcion
